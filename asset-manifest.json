@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AlankritSrivastava/todo-list.git/static/css/main.ccb42480.chunk.css",
+    "main.js": "/AlankritSrivastava/todo-list.git/static/js/main.8999d128.chunk.js",
+    "main.js.map": "/AlankritSrivastava/todo-list.git/static/js/main.8999d128.chunk.js.map",
+    "runtime-main.js": "/AlankritSrivastava/todo-list.git/static/js/runtime-main.93bca8c5.js",
+    "runtime-main.js.map": "/AlankritSrivastava/todo-list.git/static/js/runtime-main.93bca8c5.js.map",
+    "static/js/2.2a7e33b9.chunk.js": "/AlankritSrivastava/todo-list.git/static/js/2.2a7e33b9.chunk.js",
+    "static/js/2.2a7e33b9.chunk.js.map": "/AlankritSrivastava/todo-list.git/static/js/2.2a7e33b9.chunk.js.map",
+    "index.html": "/AlankritSrivastava/todo-list.git/index.html",
+    "precache-manifest.3efecf90cef21f9b9010a3706f56a244.js": "/AlankritSrivastava/todo-list.git/precache-manifest.3efecf90cef21f9b9010a3706f56a244.js",
+    "service-worker.js": "/AlankritSrivastava/todo-list.git/service-worker.js",
+    "static/css/main.ccb42480.chunk.css.map": "/AlankritSrivastava/todo-list.git/static/css/main.ccb42480.chunk.css.map",
+    "static/js/2.2a7e33b9.chunk.js.LICENSE.txt": "/AlankritSrivastava/todo-list.git/static/js/2.2a7e33b9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93bca8c5.js",
+    "static/js/2.2a7e33b9.chunk.js",
+    "static/css/main.ccb42480.chunk.css",
+    "static/js/main.8999d128.chunk.js"
+  ]
+}
